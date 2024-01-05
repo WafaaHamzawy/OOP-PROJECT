@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703958949 source:c:\users\hp\desktop\sheet solutions\bank project\main.cpp
+	<iostream>
+	<cstring>
+
